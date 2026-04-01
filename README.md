@@ -51,13 +51,13 @@ The data was used to explore demand patterns over time and support time series m
 ## Key Visualizations
 
 ### Ridership Overview
-<img src="gf1_ridership_overview.png" width="500">
+<img src="gf1_ridership_overview.png" width="550">
 
 ### Pandemic Period Adjustment (Cubic Interpolation)
-<img src="gf2_cubic_interpolation.png" width="500">
+<img src="gf2_cubic_interpolation.png" width="550">
 
 ### Time Series Modeling (ARIMA/SARIMA)
-<img src="gf3_time_series_model.png" width="500">
+<img src="gf3_time_series_model.png" width="550">
 
 ---
 
