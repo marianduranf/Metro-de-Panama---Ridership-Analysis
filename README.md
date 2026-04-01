@@ -50,14 +50,14 @@ The data was used to explore demand patterns over time and support time series m
 
 ## Key Visualizations
 
-The analysis includes visualizations such as:
+### Ridership Overview
+![Ridership Overview](gf1_ridership_overview.png)
 
-- Ridership trends over time  
-- Seasonal patterns in demand  
-- Variability and outlier detection  
-- Model predictions vs actual values  
+### Pandemic Period Adjustment (Cubic Interpolation)
+![Cubic Interpolation](gf2_cubic_interpolation.png)
 
-(See images in the `/images` folder or within the notebook.)
+### Time Series Modeling (ARIMA/SARIMA)
+![Time Series Model](gf3_time_series_model.png)
 
 ---
 
